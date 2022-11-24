@@ -1,0 +1,3 @@
+/Users/szymonstanek/Desktop/AISD 1/Zadanie 3/AISD_1_Z3/cmake-build-debug/CMakeFiles/Zadanie_3.dir
+/Users/szymonstanek/Desktop/AISD 1/Zadanie 3/AISD_1_Z3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/szymonstanek/Desktop/AISD 1/Zadanie 3/AISD_1_Z3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
